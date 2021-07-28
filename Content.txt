@@ -15,4 +15,5 @@ That seemed to work like a charm! Remeber to inspect the .git crential file. On 
 local machine at work it is located at: H:\
 Lets fix the small name problem! Okay Lets see how that went? It seems to work! This 
 might be the end of this problem! Okay not quite! But what about now? Ready to test it!
-Greetings from  machine at home. Lets make the first push!
+Greetings from  machine at home. Lets make the first push! Well not sure if it uses the
+token autentication? Lets try git config --system --unset credential.helper
