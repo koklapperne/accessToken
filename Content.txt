@@ -18,3 +18,4 @@ might be the end of this problem! Okay not quite! But what about now? Ready to t
 Greetings from  machine at home. Lets make the first push! Well not sure if it uses the
 token autentication? Lets try git config --system --unset credential.helper. Okay Username and password
 were promted. Now lets save it on the local machine at home Seems to work! lets call it a succes!
+Okay fatal error related to unix support fixed. Lets see if that works!
