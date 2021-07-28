@@ -7,4 +7,4 @@ Something was wrong? An error message appeared and a form asking for git
 username and password appeared. This seems like old fashion authentication
 The next step is to try resetting the authentication.
 Succes! It was possible to push with an active Access Token. Next step is to get git 
-to remeber it!
+to remeber it! Lets try: git config --system credential.helper manager-core
