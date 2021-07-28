@@ -16,6 +16,14 @@ Enter usersame from GitHub when propted for user name
 IMPORTANT! Enter active access token from GitHub when prompted for password
 It should now be possible to push and pull without being prompted for user name and password
 ```
+## fatal credential-cache unavailable no unix socket support error
+```
+Show local Git Configuration:
+git config -l --show-origin
+Identify configuration file where: helper = cache
+Open the file with note pad and delete: helper = cache
+```
+
 ## Get remote repository
 ```
 At work:
