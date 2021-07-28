@@ -10,4 +10,6 @@ Succes! It was possible to push with an active Access Token. Next step is to get
 to remeber it! Lets try: git config --system credential.helper manager-core
 This did not work. Try to find something online!
 Okay we are ready to try Configre helper store. configuration done. Now 
-lets see if we can push without beeing promted for username and pass word
+lets see if we can push without beeing promted for username and pass word.
+That seemed to work like a charm! Remeber to inspect the .git crential file. On the
+local machine at work it is located at: H:\
