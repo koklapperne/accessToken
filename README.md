@@ -22,7 +22,7 @@ At work:
 $ cd "/H/Udvikling/Git"
 At home:
 $ cd "/D/Programmering/Git"
-$ git clone https:/github.com/koklapperne/accessToken
+$ git clone https://github.com/koklapperne/accessToken
 ```
 ## Pull from the remote repository to the local repository
 Do this before work begins in the local repository
