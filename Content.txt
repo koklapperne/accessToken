@@ -16,4 +16,5 @@ local machine at work it is located at: H:\
 Lets fix the small name problem! Okay Lets see how that went? It seems to work! This 
 might be the end of this problem! Okay not quite! But what about now? Ready to test it!
 Greetings from  machine at home. Lets make the first push! Well not sure if it uses the
-token autentication? Lets try git config --system --unset credential.helper
+token autentication? Lets try git config --system --unset credential.helper. Okay Username and password
+were promted. Now lets save it on the local machine at home
