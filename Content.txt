@@ -14,4 +14,4 @@ lets see if we can push without beeing promted for username and pass word.
 That seemed to work like a charm! Remeber to inspect the .git crential file. On the
 local machine at work it is located at: H:\
 Lets fix the small name problem! Okay Lets see how that went? It seems to work! This 
-might be the end of this problem! Okay not quite! But what about now?
+might be the end of this problem! Okay not quite! But what about now? Ready to test it!
