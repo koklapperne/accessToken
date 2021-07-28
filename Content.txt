@@ -1,2 +1,8 @@
 This is the content file for the project. It only excist to illustrate 
-git operations
+git operations.
+So far so good. The reinstallation og Git was a succes. 
+Git Init of this project was a succes!
+Git Push of the project prompted for a logon using an access token. 
+Something was wrong? An error message appeared and a form asking for git
+username and password appeared. This seems like old fashion authentication
+The next step is to try resetting the authentication.
